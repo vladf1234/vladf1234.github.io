@@ -1,0 +1,108 @@
+#title{
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+}
+#history{
+    font-size: 20px;
+    
+}
+#page{
+    background-color: black;
+    color: lightsalmon;
+    text-shadow: 4px 4px 5px;
+    margin: auto;
+    padding: auto;
+    width:auto;
+    padding-left:20px;
+}
+body{
+    background-color: black;
+    font-family: "Yuji Mai", serif;
+    font-weight: 400;
+    font-style: normal;
+      
+}
+img{
+    border: 3px solid cyan;
+    border-radius: 20px;
+    margin: 10px;
+}
+#images{
+    text-align:center;
+    margin-top:50px;
+}
+video{
+    border: 7px solid white;
+}
+#video{
+
+    position: absolute;
+    left:800px;
+    top:450px;
+}
+.ul{
+    list-style-type: square;
+}
+ol{
+    list-style-type: upper-roman;
+}
+#source{
+    list-style-type: none;
+}
+.item{
+    font-size:14px;
+}
+.step{
+    font-size: 14px;
+}
+.tip{
+    font-size: 14px;
+    font-style: italic;
+}
+#instructions{
+    margin:auto;
+
+}
+#ingredients{
+    margin:auto;
+}
+
+#img2{
+    position: absolute;
+    left:800px;
+    top:750px;
+}
+#img1{
+    position: absolute;
+    left:1000px;
+    top:700px;
+}
+#img3{
+    position: absolute;
+    left:500px;
+    top:550px;
+}
+.youtube {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    height:30px;
+    text-align: center;
+    text-decoration: none;
+    background: red;
+    color:white;
+    border-radius: 50%;
+    position:absolute;
+    top:1130px;
+    left:1200px;
+    font-size: large;
+    border:2px solid white;
+    
+}
+.youtube:hover {
+    opacity: 0.7;
+}
+nav{
+    font-family:Arial, Helvetica, sans-serif;
+}

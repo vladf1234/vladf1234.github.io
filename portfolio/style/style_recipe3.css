@@ -1,0 +1,86 @@
+.title{
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+}
+.history{
+    font-size: 20px;
+    
+}
+.container-fluid{
+    background-color: black;
+    color: lightsalmon;
+    text-shadow: 4px 4px 5px;
+
+    
+}
+body{
+    background-color: black;
+    font-family: "Yuji Mai", serif;
+    font-weight: 400;
+    font-style: normal;
+      
+}
+img{
+    border: 3px solid cyan;
+    border-radius: 20px;
+
+}
+
+video{
+    border: 7px solid white;
+
+}
+
+#img2{
+    height: 300px;
+    width:300px;
+}
+
+ul{
+    list-style-type: square;
+}
+ol{
+    list-style-type: upper-roman;
+}
+#source{
+    list-style-type: none;
+    text-decoration: none;
+}
+.item{
+    font-size:14px;
+}
+.step{
+    font-size: 14px;
+}
+.tip{
+    font-size: 14px;
+    font-style: italic;
+}
+
+
+.youtube {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    height:30px;
+    text-align: center;
+    text-decoration: none;
+    background: red;
+    color:white;
+    border-radius: 50%;
+
+    font-size: large;
+    border:2px solid white;
+    
+}
+.youtube:hover {
+    opacity: 0.7;
+}
+
+.row{
+    margin-bottom: 50px;
+}
+nav{
+    font-family: Arial, Helvetica, sans-serif;
+}
